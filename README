@@ -1,1 +1,6 @@
-THIS IS MOORE'S BACHELOR DEGREE AND RESEARCH PROGRAM
+#CNN on Autoencode
+1. package wavelet denoise
+2. use information particles to get three channels of vibration signals per minute
+3. CNN structure based on three channels
+4. Encode and Decoder to extract data featueres
+5. K-means classification on features
